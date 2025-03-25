@@ -27,7 +27,7 @@
 
 # Browser Market Submit
 
-A NodeJS library from [Plasmo](https://www.plasmo.com/) to submit browser extensions to multiple stores. It is made to be used in the [Browser Platform Publisher](https://bpp.browser.market) action.
+A NodeJS library from [Plasmo](https://www.plasmo.com/) to submit browser extensions to multiple stores. It is made to be used in the [Browser Platform Publisher](https://github.com/marketplace/actions/browser-platform-publisher) action.
 
 Supported stores:
 
